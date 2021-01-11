@@ -1,4 +1,4 @@
-# catanddogpredictor
+# Flower Classify
 
 A new Flutter project.
 
